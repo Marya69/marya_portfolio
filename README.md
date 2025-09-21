@@ -1,8 +1,6 @@
 # 🌐 Personal Portfolio Website with Admin Panel
 
-A dynamic and responsive personal portfolio website built using **PHP, HTML, CSS (Bootstrap)**, and **JavaScript**, featuring a full **admin dashboard** to manage content like skills, projects, experience, contact info, and CV files.
-
-🔗 **Live Website:** [https://marya-jabar.great-site.net](https://marya-jabar.great-site.net/?i=3)
+A dynamic and responsive personal portfolio website built using **PHP, HTML, CSS (Bootstrap)**, and **JavaScript**, featuring a full **admin dashboard** to manage content like skills, projects, experience, contact info, and CV files
 
 ---
 
